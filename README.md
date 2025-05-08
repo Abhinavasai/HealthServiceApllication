@@ -1,4 +1,4 @@
-# Morris Health Service (MHS) Management System
+# Health Service Management System
 
 ## Authors
 Abhinava Sai Tirunagari
